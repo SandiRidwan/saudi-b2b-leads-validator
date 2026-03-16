@@ -1,0 +1,13 @@
+# Data Processing
+pandas
+openpyxl
+
+# Automation & Scraping
+selenium
+webdriver-manager
+
+# Email Validation (Module 3)
+dnspython
+
+# Networking
+requests
